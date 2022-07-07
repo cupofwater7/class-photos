@@ -1,5 +1,7 @@
-# class-photos
+                                                Coding Interview Questions 
+# class-photos         
 
+Difficulty: easy
 
   It's photo day at the local school, and you're the photographer assigned to
   take class photos. The class that you'll be photographing has an even number
